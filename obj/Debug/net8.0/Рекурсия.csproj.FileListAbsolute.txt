@@ -1,0 +1,14 @@
+C:\Users\ektur\Desktop\Рекурсия\bin\Debug\net8.0\Рекурсия.exe
+C:\Users\ektur\Desktop\Рекурсия\bin\Debug\net8.0\Рекурсия.deps.json
+C:\Users\ektur\Desktop\Рекурсия\bin\Debug\net8.0\Рекурсия.runtimeconfig.json
+C:\Users\ektur\Desktop\Рекурсия\bin\Debug\net8.0\Рекурсия.dll
+C:\Users\ektur\Desktop\Рекурсия\bin\Debug\net8.0\Рекурсия.pdb
+C:\Users\ektur\Desktop\Рекурсия\obj\Debug\net8.0\Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ektur\Desktop\Рекурсия\obj\Debug\net8.0\Рекурсия.AssemblyInfoInputs.cache
+C:\Users\ektur\Desktop\Рекурсия\obj\Debug\net8.0\Рекурсия.AssemblyInfo.cs
+C:\Users\ektur\Desktop\Рекурсия\obj\Debug\net8.0\Рекурсия.csproj.CoreCompileInputs.cache
+C:\Users\ektur\Desktop\Рекурсия\obj\Debug\net8.0\Рекурсия.dll
+C:\Users\ektur\Desktop\Рекурсия\obj\Debug\net8.0\refint\Рекурсия.dll
+C:\Users\ektur\Desktop\Рекурсия\obj\Debug\net8.0\Рекурсия.pdb
+C:\Users\ektur\Desktop\Рекурсия\obj\Debug\net8.0\Рекурсия.genruntimeconfig.cache
+C:\Users\ektur\Desktop\Рекурсия\obj\Debug\net8.0\ref\Рекурсия.dll
